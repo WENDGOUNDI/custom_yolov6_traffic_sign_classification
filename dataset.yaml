@@ -1,0 +1,11 @@
+train: /content/drive/MyDrive/DL/Object_Detection/YOLOv6-main/data/images/train # train images
+val: /content/drive/MyDrive/DL/Object_Detection/YOLOv6-main/data/images/val # val images
+test: /content/drive/MyDrive/DL/Object_Detection/YOLOv6-main/data/images/test # test images (optional)
+
+# whether it is coco dataset, only coco dataset should be set to True.
+is_coco: False
+# Classes
+nc: 4  # number of classes
+#names: ['prohibitory', 'danger', 'mandatory', 'other']  # class names
+
+names: ['prohibitory', 'danger', 'mandatory', 'other']  # class names
