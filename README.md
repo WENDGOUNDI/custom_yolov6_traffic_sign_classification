@@ -3,6 +3,7 @@
 According to the official repo, YOLOv6 is a single-stage object detection framework dedicated to industrial applications, with hardware-friendly efficient design and high performance. Here we are implementing YOLOV6 in a custom dataset, the traffic sign dataset composed of 4 labels: prohibitory, danger, mandatory and others. The training has been conducted using the yolo
 
 # Dataset
+Download the dataset through this link **https://www.kaggle.com/datasets/valentynsichkar/traffic-signs-dataset-in-yolo-format**
 
 The traffic sign dataset has four categories:
  - prohibitory
